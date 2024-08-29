@@ -6,7 +6,7 @@ subtitle: <a href='https://cs.sabanciuniv.edu/'>Computer Science and Engineering
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:alp.yener@sabanciuniv.edu">alp.yener@sabanciuniv.edu</a></p>
