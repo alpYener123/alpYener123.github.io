@@ -18,8 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a senior B.Sc. student in [Computer Science and Engineering](https://cs.sabanciuniv.edu/) at Sabanci University. I work as a research assistant at [VRL Lab](http://varollab.com), under the supervision of [Dr. Onur Varol](http://www.onurvarol.com) and at [BAVLAB](https://analyticslab.sabanciuniv.edu/) under the supervision of [Dr. Selim Balcısoy](https://www.linkedin.com/in/selim-balcisoy/).
 
-For collaborations, inquiries, or simply to connect, [my DMs are always open.](mailto:alp.yener@sabanciuniv.edu)
-
 ## research interests
 - Data Science
 - Machine Learning in Health Science
