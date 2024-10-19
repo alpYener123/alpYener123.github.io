@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a senior B.Sc. student in [Computer Science and Engineering](https://cs.sabanciuniv.edu/) at Sabanci University. I work as a research assistant at [VRL Lab](http://varollab.com), under the supervision of [Dr. Onur Varol](http://www.onurvarol.com) and at [BAVLAB](https://analyticslab.sabanciuniv.edu/) under the supervision of [Dr. Selim Balcısoy](https://www.linkedin.com/in/selim-balcisoy/).
+I am currently a senior B.Sc. student in [Computer Science and Engineering](https://cs.sabanciuniv.edu/) at Sabanci University. I work as a research assistant at [VRL Lab](http://varollab.com), under the supervision of [Asst. Prof. Onur Varol](https://scholar.google.com/citations?user=t8YAefAAAAAJ&hl=en) and at [BAVLAB](https://analyticslab.sabanciuniv.edu/) under the supervision of [Prof. Selim Balcısoy](https://scholar.google.com.tr/citations?user=66oPBLMAAAAJ&hl=en).
 
 ## research interests
 - Data Science
